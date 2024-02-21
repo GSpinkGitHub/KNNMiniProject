@@ -1,2 +1,2 @@
 ## Generative KNN
-* Link: https://github.com/GSpinkGitHub/KNNMiniProject/GenerativeKNN/index.html
+* Link: https://github.com/GSpinkGitHub/KNNMiniProject/blob/main/GenerativeKNN/index.html
